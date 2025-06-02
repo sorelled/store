@@ -5,6 +5,6 @@ public enum TypePoste {
     CHEFBUREAU,
     CHEFSERVICE,
     DIRECTEUR,
-    DG
+
 }
 
